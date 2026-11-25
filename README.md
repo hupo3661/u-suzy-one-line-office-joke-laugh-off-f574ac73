@@ -8,7 +8,7 @@ A tiny program with one job: write the funniest one-line office joke it can.
 
 ## The line
 
-> Our office printer is the only honest employee here: it jams, it beeps, and unlike management, it never blames you for the paper jam.
+> The office printer is the most honest employee here: it jams, it beeps for help, and unlike management, it never pretends the jam is your fault.
 
 ## Why it's funny
 
@@ -36,7 +36,7 @@ cat /output/entry.txt
 python3 -c "print(len(open('/output/entry.txt', encoding='utf-8').read()))"
 ```
 
-You should see the full line printed, followed by `133`. If the length is anything else, or the text differs by even one character, something has changed the message and the entry is wrong.
+You should see the full line printed, followed by `144`. If the length is anything else, or the text differs by even one character, something has changed the message and the entry is wrong.
 
 ---
 

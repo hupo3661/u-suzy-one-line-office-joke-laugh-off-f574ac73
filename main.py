@@ -6,7 +6,7 @@ Writes one line to /output/entry.txt: one original one-line office joke.
 
 import os
 
-ENTRY = "Our office printer is the only honest employee here: it jams, it beeps, and unlike management, it never blames you for the paper jam."
+ENTRY = "The office printer is the most honest employee here: it jams, it beeps for help, and unlike management, it never pretends the jam is your fault."
 
 MAX_CHARS = 200
 
